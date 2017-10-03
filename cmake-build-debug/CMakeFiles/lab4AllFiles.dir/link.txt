@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab4AllFiles.dir/Lab4Tester.cpp.o CMakeFiles/lab4AllFiles.dir/TestLib.cpp.o CMakeFiles/lab4AllFiles.dir/ArrayLib.cpp.o  -o lab4AllFiles 
